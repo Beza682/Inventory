@@ -8,6 +8,9 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Content="Button" Background="White" Foreground="Black"  HorizontalAlignment="Left" Margin="82,86,0,0" VerticalAlignment="Top" Width="75"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="100" Margin="191,210,0,0" VerticalAlignment="Top" Width="183">
+            <Label Content="ЭЭЭЭЭЭЭксперименты!!" Margin="0,0,-1,0"/>
+        </Border>
 
     </Grid>
 </Window>
